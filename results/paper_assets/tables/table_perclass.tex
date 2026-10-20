@@ -1,0 +1,21 @@
+\begin{tabular}{lcccccc}
+\toprule
+Model & Black spot & Canker & Greening & Healthy & Melanose & Scab \\
+\midrule
+EfficientNetB0 & 0.89 & 0.89 & 0.88 & 0.89 & 1.00 & 0.80 \\
+ResNet50 & 0.86 & 0.93 & 0.87 & 0.92 & 0.50 & 0.80 \\
+DenseNet121 & 0.85 & 0.89 & 0.83 & 0.82 & 0.80 & 0.80 \\
+InceptionV3 & 0.81 & 0.93 & 0.87 & 0.79 & 1.00 & 1.00 \\
+ResNet50 + SVM & 0.89 & 0.92 & 0.95 & 0.96 & 1.00 & 1.00 \\
+ResNet50 + KNN & 0.69 & 0.83 & 0.85 & 0.79 & 0.00 & 1.00 \\
+ResNet50 + RF & 0.80 & 0.81 & 0.86 & 0.74 & 0.00 & 1.00 \\
+ResNet50 + NB & 0.29 & 0.27 & 0.50 & 0.35 & 0.00 & 1.00 \\
+DenseNet121 + SVM & 0.91 & 0.91 & 0.94 & 0.91 & 1.00 & 1.00 \\
+DenseNet121 + KNN & 0.74 & 0.89 & 0.81 & 0.87 & 0.67 & 1.00 \\
+DenseNet121 + RF & 0.85 & 0.83 & 0.85 & 0.59 & 0.00 & 1.00 \\
+DenseNet121 + NB & 0.60 & 0.53 & 0.62 & 0.76 & 0.67 & 1.00 \\
+ResNet50 + DenseNet121 & 0.88 & 0.93 & 0.91 & 1.00 & 0.80 & 0.80 \\
+\midrule
+Test images & 29 & 36 & 33 & 12 & 2 & 2 \\
+\bottomrule
+\end{tabular}

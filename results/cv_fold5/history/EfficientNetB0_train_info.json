@@ -1,0 +1,15 @@
+{
+  "model": "EfficientNetB0",
+  "epochs_phase1": 20,
+  "epochs_phase2": 10,
+  "best_val_loss_phase1": 0.5281107425689697,
+  "best_val_loss_phase2": 0.5252086520195007,
+  "final_model_from": "phase2",
+  "train_seconds": 398.9,
+  "image_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "dropout": 0.2
+}

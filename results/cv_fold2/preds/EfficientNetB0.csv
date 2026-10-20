@@ -1,0 +1,153 @@
+filepath,domain,label,y_true,y_pred,p_Black_spot,p_Canker,p_Greening,p_Healthy,p_Melanose,p_Scab
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Black spot/Black spot (12).jpg,Fruits,Black_spot,0,1,0.21848513,0.7534709,0.0058668926,0.004154966,0.011426469,0.006595636
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Black spot/Black spot (8).jpg,Fruits,Black_spot,0,1,0.018259747,0.9336147,0.010239933,0.018853284,0.013131724,0.0059006284
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Black spot/Black spot (9).jpg,Fruits,Black_spot,0,3,0.21608138,0.2537884,0.010907792,0.51247185,0.0038478298,0.0029026624
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (100).jpg,Fruits,Canker,1,0,0.37584558,0.3521089,0.015218388,0.23872724,0.0064572557,0.011642597
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (110).jpg,Fruits,Canker,1,1,0.3447033,0.55835664,0.0045952927,0.027018664,0.060153276,0.0051728045
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (112).jpg,Fruits,Canker,1,1,0.15775497,0.8111039,0.017183596,0.0027393375,0.010390791,0.00082745455
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (116).jpg,Fruits,Canker,1,1,0.0679305,0.9218613,0.0011103984,0.0003056897,0.008080932,0.0007111499
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (118).jpg,Fruits,Canker,1,1,0.1848738,0.7798815,0.0030753897,0.0018668665,0.025997922,0.004304504
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (122).jpg,Fruits,Canker,1,1,0.17706953,0.7466025,0.004730428,0.008937532,0.059003536,0.0036563624
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (49).jpg,Fruits,Canker,1,0,0.90593094,0.05785771,0.011663364,0.015899505,0.0061323224,0.0025161868
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (50).jpg,Fruits,Canker,1,3,0.118510805,0.32711133,0.04268083,0.4769669,0.025750156,0.008980011
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (53).jpg,Fruits,Canker,1,1,0.26547903,0.684957,0.009271251,0.017104454,0.013696247,0.009492063
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (55).jpg,Fruits,Canker,1,1,0.3724675,0.53355783,0.011172973,0.055100147,0.017763285,0.009938187
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (56).jpg,Fruits,Canker,1,0,0.48268247,0.36887375,0.044014003,0.038589984,0.0062413644,0.05959838
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (57).jpg,Fruits,Canker,1,1,0.40548688,0.4474315,0.013663274,0.10988697,0.010231356,0.013299923
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (64).jpg,Fruits,Canker,1,1,0.3637667,0.43237105,0.12622435,0.028623886,0.006063466,0.04295044
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (65).jpg,Fruits,Canker,1,0,0.36918086,0.21464047,0.040345795,0.34837946,0.0056373514,0.021815972
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (69).jpg,Fruits,Canker,1,0,0.29384273,0.2792373,0.08278785,0.29325396,0.004078303,0.046799775
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (79).jpg,Fruits,Canker,1,1,0.23860799,0.59268504,0.081902504,0.011535942,0.00089034654,0.07437811
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (81).jpg,Fruits,Canker,1,1,0.42356324,0.4800501,0.042165145,0.0072129196,0.0014986035,0.045510016
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (84).jpg,Fruits,Canker,1,0,0.5014766,0.28948814,0.11582834,0.016757544,0.0010187891,0.07543062
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (85).jpg,Fruits,Canker,1,1,0.40781948,0.53325945,0.01897287,0.0016591682,0.00066413294,0.037624992
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (86).jpg,Fruits,Canker,1,1,0.31237045,0.5838452,0.053399332,0.0049675773,0.00042024464,0.04499726
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (93).jpg,Fruits,Canker,1,0,0.52158076,0.19736911,0.04083814,0.13068254,0.007736634,0.101792805
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Canker/Canker (97).jpg,Fruits,Canker,1,0,0.5866422,0.30864498,0.04024992,0.022948494,0.0033307995,0.038183566
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Greening/Greening (1).jpeg,Fruits,Greening,2,5,0.01810801,0.05637828,0.11470682,0.015255151,0.0094491225,0.7861026
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Greening/Greening (1).jpg,Fruits,Greening,2,1,0.19296275,0.26626763,0.2606222,0.04333575,0.009976798,0.2268349
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Scab/51Catla.jpg,Fruits,Scab,5,5,0.0014036808,0.003842137,0.0028330374,0.0043832324,0.00048482855,0.9870531
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Scab/54Catla.jpg,Fruits,Scab,5,5,0.0061775623,0.009629309,0.0108088665,0.008207205,0.0007429665,0.9644341
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/Scab/55.jpg,Fruits,Scab,5,5,0.0029110522,0.007923882,0.034739174,0.016298756,0.0040613585,0.9340658
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/healthy/Healthy (3).jpg,Fruits,Healthy,3,3,0.02557077,0.08727737,0.006709196,0.8663248,0.012500842,0.0016170443
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/healthy/Healthy (5).jpg,Fruits,Healthy,3,3,0.014652466,0.08456139,0.010982467,0.86760277,0.021098772,0.0011022632
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Fruits/healthy/Healthy (8).jpg,Fruits,Healthy,3,3,0.04423632,0.069758005,0.030809555,0.8285227,0.0065622027,0.020111272
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/74.jpg,Leaves,Black_spot,0,1,0.14151122,0.7156319,0.064906605,0.026550492,0.03390921,0.017490491
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (134).png,Leaves,Black_spot,0,2,0.33843562,0.05223154,0.60117304,0.005205823,0.002719407,0.00023454078
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (142).png,Leaves,Black_spot,0,0,0.55592144,0.08768853,0.33655557,0.012786869,0.004570532,0.0024770054
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (144).png,Leaves,Black_spot,0,0,0.8360967,0.006271093,0.15686814,0.000505853,0.0002480639,1.0239806e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (146).png,Leaves,Black_spot,0,0,0.9877993,0.0020935496,0.0078599285,0.0019979426,0.000116481795,0.00013280254
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (156).png,Leaves,Black_spot,0,0,0.9771895,0.008531964,0.010512126,0.0031607235,0.0003976958,0.0002079857
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (160).png,Leaves,Black_spot,0,0,0.9872622,0.0019910699,0.008705672,0.001938119,4.5060875e-05,5.7757043e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (163).png,Leaves,Black_spot,0,0,0.64269453,0.014130154,0.31736767,0.025065446,0.00056047906,0.00018178747
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (172).png,Leaves,Black_spot,0,0,0.9324253,0.011162777,0.046318956,0.0094196545,0.00030570422,0.0003676576
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (174).png,Leaves,Black_spot,0,0,0.99617434,0.0015646156,0.0020191814,0.00021617077,2.1185151e-05,4.5972706e-06
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (180).png,Leaves,Black_spot,0,2,0.24084058,0.03789518,0.7121669,0.00720883,0.00062104425,0.001267387
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (187).png,Leaves,Black_spot,0,0,0.73275834,0.00582027,0.25707296,0.0038616909,0.00033615407,0.00015061228
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (230).png,Leaves,Black_spot,0,0,0.9237541,0.030696148,0.043139458,0.0011901784,0.0011165955,0.00010352029
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (232).png,Leaves,Black_spot,0,0,0.74807096,0.04742342,0.19934057,0.004559616,0.0003760276,0.00022933337
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (233).png,Leaves,Black_spot,0,0,0.44352293,0.14773667,0.3833958,0.02164063,0.0013160985,0.002387883
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (237).png,Leaves,Black_spot,0,0,0.9390276,0.0034582438,0.05430851,0.002585639,0.00059884327,2.1027421e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (250).png,Leaves,Black_spot,0,2,0.47206393,0.001569181,0.5246595,0.0014201556,0.00025945157,2.7770966e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (258).png,Leaves,Black_spot,0,0,0.7854947,0.13015248,0.080971316,0.0024173753,0.0002004236,0.00076375203
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (263).png,Leaves,Black_spot,0,0,0.6238344,0.03157322,0.33812946,0.006033061,0.0003361823,9.3689356e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (264).png,Leaves,Black_spot,0,0,0.916034,0.042243805,0.037771586,0.0025768331,0.001069642,0.00030424297
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (266).png,Leaves,Black_spot,0,0,0.9371359,0.01340309,0.012254115,0.034525484,0.0017432385,0.0009382049
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (269).png,Leaves,Black_spot,0,0,0.43451673,0.028224282,0.40183285,0.1289224,0.0058379513,0.0006657241
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (274).png,Leaves,Black_spot,0,0,0.6988932,0.0049727513,0.2942557,0.0013988864,0.00044527545,3.4215456e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (278).png,Leaves,Black_spot,0,0,0.97550577,0.010560691,0.011437892,0.002092944,0.00023856453,0.00016417596
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (47).png,Leaves,Black_spot,0,2,0.19189131,0.0031512112,0.7654786,0.036992535,0.002278052,0.00020833715
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (50).png,Leaves,Black_spot,0,0,0.90350974,0.010495339,0.0848508,0.00072488183,0.00033628638,8.292494e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (56).png,Leaves,Black_spot,0,0,0.9204947,0.011664196,0.06702168,0.0005319847,0.00024039196,4.6978228e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (57).png,Leaves,Black_spot,0,2,0.11423697,0.008232114,0.840866,0.035652507,0.00082864746,0.00018375451
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (59).png,Leaves,Black_spot,0,0,0.920084,0.0057003726,0.0708471,0.0024159916,0.00072453485,0.00022794545
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (61).png,Leaves,Black_spot,0,0,0.7195244,0.17130674,0.06244577,0.028769765,0.0059488243,0.012004413
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (62).png,Leaves,Black_spot,0,0,0.63884676,0.07818288,0.19805919,0.075013705,0.0028413937,0.007056006
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (69).png,Leaves,Black_spot,0,0,0.64891887,0.25266442,0.049833626,0.029587522,0.0076021,0.011393453
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (83).png,Leaves,Black_spot,0,0,0.9588872,0.0018853367,0.03485338,0.0025382368,0.0015807702,0.00025517313
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/b (93).png,Leaves,Black_spot,0,0,0.8455037,0.022435395,0.124876745,0.006045926,0.00069149403,0.00044683693
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Black spot/bl (1).png,Leaves,Black_spot,0,2,0.44005102,0.078812726,0.4780196,0.0020828075,0.0006224213,0.0004115231
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Melanose/38.jpg,Leaves,Melanose,4,4,0.02322594,0.12415045,0.035641387,0.22421427,0.5843526,0.008415403
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Melanose/SAM_3927Catla.jpg,Leaves,Melanose,4,4,0.0177295,0.17474717,0.026233632,0.017610384,0.7428908,0.020788522
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/Melanose/SAM_3941Catla.jpg,Leaves,Melanose,4,4,0.0067361617,0.010447854,0.0016840044,0.00129288,0.97921693,0.00062220823
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/100.p.png,Leaves,Canker,1,1,0.006403107,0.98453784,0.008412303,0.0003653079,0.00022471607,5.6611592e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/101.p.png,Leaves,Canker,1,0,0.7735221,0.12851307,0.08239182,0.014749811,0.00060881453,0.00021449829
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/102.p.png,Leaves,Canker,1,0,0.5337236,0.2919364,0.16352499,0.008452069,0.0015133505,0.00084963645
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/106.p.png,Leaves,Canker,1,1,0.0026625553,0.9953002,0.0014149136,0.00029311693,0.00019986721,0.00012930884
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/11.pn.png,Leaves,Canker,1,1,0.009870345,0.9713698,0.015500278,0.002258652,0.00042262636,0.0005782818
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/110.p.png,Leaves,Canker,1,1,0.14247578,0.6103202,0.21212691,0.03142185,0.0020721024,0.0015831232
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/120.p.png,Leaves,Canker,1,1,0.24558902,0.5622218,0.029654244,0.13892102,0.010938773,0.012675061
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/129.p.png,Leaves,Canker,1,2,0.13266931,0.4250285,0.43632245,0.0047348235,0.0011611034,8.37138e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/131.p.png,Leaves,Canker,1,2,0.3131112,0.06192611,0.60036373,0.023365388,0.0011398318,9.377499e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/141.p.png,Leaves,Canker,1,1,0.031757645,0.9489277,0.016417569,0.0016314664,0.00084537524,0.0004203709
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/160.p.png,Leaves,Canker,1,2,0.31716654,0.13815232,0.5321679,0.0081782425,0.0027158866,0.0016191291
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/163.p.png,Leaves,Canker,1,1,0.031241035,0.88127,0.07481379,0.0047939024,0.0075206244,0.00036072306
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/32.pn.png,Leaves,Canker,1,1,0.0012642076,0.9935347,0.0012540922,0.0036857845,0.00015734001,0.00010386268
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/43.pn.png,Leaves,Canker,1,1,0.007919813,0.9880135,0.0032224085,0.0004819854,0.00013668108,0.00022574219
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/49.pn.png,Leaves,Canker,1,3,0.15839514,0.21444888,0.09233756,0.52242506,0.008765551,0.003627841
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/51.pn.png,Leaves,Canker,1,1,0.027780894,0.8776388,0.017815929,0.07377923,0.0022774052,0.0007077878
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/57.pn.png,Leaves,Canker,1,1,0.010821062,0.909048,0.053655934,0.024307191,0.0017673122,0.0004004139
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/58.pn.png,Leaves,Canker,1,1,0.007076668,0.98392665,0.00270412,0.0024780326,0.003483964,0.00033064844
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/60.pn.png,Leaves,Canker,1,1,0.042722266,0.89701086,0.040267006,0.01119729,0.006596171,0.0022064885
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/66.pn.png,Leaves,Canker,1,1,0.008868963,0.97233284,0.0136405835,0.0025436955,0.0022514914,0.0003625663
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/73.pn.png,Leaves,Canker,1,1,0.01755539,0.97310907,0.0042432146,0.0021565661,0.0026637176,0.000272
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/78.pn.png,Leaves,Canker,1,1,0.007923055,0.98954755,0.0014216221,0.0003769743,0.00043442784,0.00029646885
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/82.pn.png,Leaves,Canker,1,1,0.016657883,0.9715976,0.010708708,0.00048326654,0.0003154079,0.0002371906
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/83.pn.png,Leaves,Canker,1,1,0.028779715,0.9490448,0.016473047,0.0020571898,0.0012431567,0.0024021093
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/89.pn.png,Leaves,Canker,1,1,0.0129135605,0.9808097,0.0032385585,0.0013739715,0.0011644753,0.0004998109
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/canker/97.pn.png,Leaves,Canker,1,1,0.004769346,0.9857254,0.008525167,0.00048142552,0.0001155229,0.00038305525
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (10).png,Leaves,Greening,2,2,0.22518255,0.011894205,0.75708467,0.005102311,0.00067255157,6.370199e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (104).png,Leaves,Greening,2,2,0.08247849,0.0057545616,0.8415338,0.068069495,0.0018457541,0.00031787602
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (107).png,Leaves,Greening,2,2,0.27260253,0.010750466,0.6554845,0.058599852,0.0017074207,0.0008551677
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (108).png,Leaves,Greening,2,2,0.13174485,0.036805987,0.7752185,0.052088063,0.002206919,0.0019356486
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (11).png,Leaves,Greening,2,2,0.14819078,0.00397946,0.83311695,0.014097852,0.0005323757,8.2590384e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (111).png,Leaves,Greening,2,2,0.35039642,0.13910225,0.47590375,0.030354157,0.0012582492,0.002985187
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (113).png,Leaves,Greening,2,2,0.17882927,0.00784911,0.6444568,0.16464104,0.003476073,0.0007476553
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (116).png,Leaves,Greening,2,2,0.20575029,0.0060731964,0.78362453,0.004112653,0.0004117914,2.7691842e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (119).png,Leaves,Greening,2,2,0.105283625,0.005310201,0.8755685,0.013217096,0.00045917078,0.00016150401
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (125).png,Leaves,Greening,2,2,0.08183722,0.019635499,0.86614096,0.0292883,0.0025366172,0.0005614437
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (127).png,Leaves,Greening,2,2,0.096879244,0.00771109,0.8773975,0.017105747,0.00067064277,0.0002357416
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (131).png,Leaves,Greening,2,2,0.06683039,0.0079915505,0.9072253,0.014698352,0.003070346,0.00018408184
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (134).png,Leaves,Greening,2,2,0.05795952,0.006757924,0.93178856,0.0029783295,0.0003786057,0.00013717815
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (138).png,Leaves,Greening,2,2,0.10084516,0.008490744,0.88216805,0.007782629,0.0006702555,4.3136108e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (139).png,Leaves,Greening,2,0,0.48115376,0.058862414,0.44223452,0.016926156,0.0007422277,8.103027e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (145).png,Leaves,Greening,2,2,0.15825658,0.0051769163,0.7780423,0.055565957,0.0025028514,0.00045528566
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (147).png,Leaves,Greening,2,2,0.20838681,0.03256536,0.7453259,0.011636165,0.0012887825,0.00079707307
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (154).png,Leaves,Greening,2,2,0.1873641,0.02692656,0.76790565,0.015418942,0.0011376895,0.0012470294
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (167).png,Leaves,Greening,2,0,0.4089852,0.1893497,0.38855305,0.0075308797,0.004738993,0.00084223214
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (17).png,Leaves,Greening,2,2,0.34613216,0.018376833,0.6099523,0.023725478,0.00138935,0.00042390265
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (177).png,Leaves,Greening,2,2,0.31019464,0.011349112,0.6745225,0.0034154868,0.00033560375,0.00018272805
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (178).png,Leaves,Greening,2,2,0.37643534,0.096272685,0.51131046,0.0070591024,0.0047274055,0.0041950927
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (18).png,Leaves,Greening,2,0,0.467384,0.15411684,0.36669004,0.010220245,0.0006024993,0.0009864082
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (181).png,Leaves,Greening,2,2,0.07091386,0.016455315,0.86060154,0.05098419,0.00061130343,0.00043375295
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (186).png,Leaves,Greening,2,2,0.19041328,0.14433317,0.6549109,0.0073242257,0.0016735534,0.0013449149
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (189).png,Leaves,Greening,2,2,0.1325815,0.17749995,0.6645126,0.020320842,0.004778564,0.00030657407
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (190).png,Leaves,Greening,2,2,0.23839343,0.16829725,0.5729512,0.013642455,0.0048122522,0.0019034286
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (196).png,Leaves,Greening,2,2,0.15873182,0.0065279338,0.80537647,0.028875759,0.0004377342,5.0304472e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (28).png,Leaves,Greening,2,2,0.17193356,0.02824398,0.7157253,0.07875749,0.0031617503,0.0021779106
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (3).png,Leaves,Greening,2,2,0.25333083,0.008235965,0.50150055,0.23250395,0.0026866924,0.0017420545
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (37).png,Leaves,Greening,2,2,0.10782692,0.0107760765,0.8709639,0.01006473,0.00026578925,0.00010250744
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (4).png,Leaves,Greening,2,0,0.466056,0.119285256,0.40707397,0.0065295473,0.0009385159,0.00011682135
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (46).png,Leaves,Greening,2,2,0.15685803,0.02427397,0.79169995,0.023612892,0.0032234422,0.00033166353
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (48).png,Leaves,Greening,2,2,0.083292484,0.010159693,0.8932501,0.012157044,0.00064377545,0.0004969246
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (49).png,Leaves,Greening,2,0,0.6424925,0.07928772,0.27435863,0.002787633,0.00045768064,0.0006158446
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (57).png,Leaves,Greening,2,2,0.11984182,0.021219062,0.7707482,0.08354361,0.0033918207,0.0012555477
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (60).png,Leaves,Greening,2,2,0.041456338,0.01972459,0.9044655,0.03333584,0.00097153825,4.6253233e-05
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (78).png,Leaves,Greening,2,3,0.05970648,0.005380289,0.4374401,0.49409595,0.003103807,0.00027334137
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (83).png,Leaves,Greening,2,2,0.10989833,0.07876426,0.7925278,0.018181821,0.00042311518,0.00020466192
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (87).png,Leaves,Greening,2,2,0.021503737,0.0056037377,0.95900756,0.012421065,0.0013076178,0.00015629224
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (90).png,Leaves,Greening,2,3,0.183331,0.030864172,0.34348327,0.42785507,0.012319631,0.0021467358
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/greening/g (94).png,Leaves,Greening,2,0,0.74745834,0.022423627,0.20307574,0.023201216,0.001589176,0.0022518865
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/17.pn.png,Leaves,Healthy,3,3,0.03564684,0.02371339,0.11167806,0.8250193,0.003105518,0.00083693996
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/25.pn.png,Leaves,Healthy,3,3,0.15191056,0.05339635,0.18909192,0.6013679,0.0021479917,0.0020851844
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/27.pn.png,Leaves,Healthy,3,3,0.008471341,0.0017963512,0.031019468,0.9576146,0.0007315324,0.0003668292
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/28.pn.png,Leaves,Healthy,3,3,0.025192583,0.00344348,0.026024122,0.9437143,0.0009525224,0.00067295996
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/3.png.png,Leaves,Healthy,3,3,0.015313784,0.008747073,0.07767496,0.89631456,0.0015917135,0.00035780642
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/36.pn.png,Leaves,Healthy,3,3,0.04294539,0.020223163,0.110985756,0.8054383,0.0030698748,0.017337535
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/39.pn.png,Leaves,Healthy,3,3,0.07538085,0.021164784,0.14271979,0.75134873,0.003615484,0.005770374
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/42.pn.png,Leaves,Healthy,3,3,0.0094477385,0.0049218633,0.029700596,0.9533355,0.00045740727,0.002136845
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/48.pn.png,Leaves,Healthy,3,3,0.062237877,0.016363885,0.1520896,0.7668687,0.0012216887,0.0012182137
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/5.png.png,Leaves,Healthy,3,3,0.053040016,0.022350533,0.12202761,0.7929782,0.006810025,0.0027935146
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/51.pn.png,Leaves,Healthy,3,3,0.017361475,0.006768455,0.23250796,0.73931056,0.0022648794,0.0017866642
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/8.png.png,Leaves,Healthy,3,3,0.047513634,0.015029542,0.1448561,0.7739474,0.0055247606,0.013128527
+/kaggle/input/datasets/abrar1515/citrus-data/Citrus/Leaves/healthy/9.png.png,Leaves,Healthy,3,3,0.022059485,0.006444078,0.077200525,0.8900409,0.003505595,0.00074942916

@@ -1,0 +1,15 @@
+{
+  "model": "DenseNet121",
+  "epochs_phase1": 20,
+  "epochs_phase2": 20,
+  "best_val_loss_phase1": 0.32991814613342285,
+  "best_val_loss_phase2": 0.24793641269207,
+  "final_model_from": "phase2",
+  "train_seconds": 605.1,
+  "image_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "dropout": 0.4
+}

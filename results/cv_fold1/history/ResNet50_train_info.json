@@ -1,0 +1,15 @@
+{
+  "model": "ResNet50",
+  "epochs_phase1": 20,
+  "epochs_phase2": 19,
+  "best_val_loss_phase1": 0.3186453580856323,
+  "best_val_loss_phase2": 0.2850777208805084,
+  "final_model_from": "phase2",
+  "train_seconds": 466.1,
+  "image_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "dropout": 0.4
+}

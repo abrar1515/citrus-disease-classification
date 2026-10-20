@@ -1,0 +1,15 @@
+{
+  "model": "InceptionV3",
+  "epochs_phase1": 20,
+  "epochs_phase2": 20,
+  "best_val_loss_phase1": 0.46655789017677307,
+  "best_val_loss_phase2": 0.31836414337158203,
+  "final_model_from": "phase2",
+  "train_seconds": 661.6,
+  "image_size": [
+    299,
+    299
+  ],
+  "batch_size": 24,
+  "dropout": 0.4
+}

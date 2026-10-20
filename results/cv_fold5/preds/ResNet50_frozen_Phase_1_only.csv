@@ -1,0 +1,152 @@
+filepath,domain,label,y_true,y_pred,p_Black_spot,p_Canker,p_Greening,p_Healthy,p_Melanose,p_Scab
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Black spot/Black spot (1).jpg,Fruits,Black_spot,0,1,0.3630888,0.4326607,0.19159548,0.0048395614,3.513999e-05,0.00778035
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Black spot/Black spot (10).jpg,Fruits,Black_spot,0,1,0.39636478,0.5852594,0.006895902,0.011194774,6.002587e-05,0.00022519569
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Black spot/Black spot (4).jpg,Fruits,Black_spot,0,0,0.61388564,0.3281027,0.00303548,0.0432214,0.00020614555,0.01154863
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (111).jpg,Fruits,Canker,1,1,0.011648138,0.9822214,0.0004989606,0.0010645092,0.004517553,4.953906e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (120).jpg,Fruits,Canker,1,1,0.40037593,0.5995709,1.9104185e-05,7.2181024e-06,2.3656845e-05,3.189933e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (124).jpg,Fruits,Canker,1,1,0.03328961,0.9592575,2.4063773e-05,1.752083e-05,0.007404346,7.1132713e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (58).jpg,Fruits,Canker,1,0,0.81603616,0.17951472,0.0028555866,0.0013179139,0.00018863476,8.690943e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (59).jpg,Fruits,Canker,1,1,0.18955395,0.80997247,0.00017962448,1.0596217e-06,0.00029177184,1.095834e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (62).jpg,Fruits,Canker,1,1,0.009181517,0.5355532,0.028637169,0.4205701,0.0057992106,0.0002586609
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (70).jpg,Fruits,Canker,1,1,0.27522305,0.6408473,0.011323079,0.06426816,5.6692865e-05,0.008281649
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (73).jpg,Fruits,Canker,1,0,0.5008852,0.40908402,0.022246737,0.01064113,6.8939924e-05,0.057073902
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (74).jpg,Fruits,Canker,1,0,0.67638546,0.32133603,0.001996362,4.435971e-05,4.223951e-06,0.00023366127
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (80).jpg,Fruits,Canker,1,1,0.35484618,0.6436051,0.0013880534,2.0162608e-05,1.1411126e-06,0.00013927839
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (82).jpg,Fruits,Canker,1,0,0.9867077,0.012758988,0.0004378188,3.4483568e-05,8.22223e-06,5.2803018e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Canker/Canker (92).jpg,Fruits,Canker,1,0,0.63353205,0.300135,0.0026901383,0.043373525,8.2832805e-05,0.02018642
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Greening/Greening (12).jpg,Fruits,Greening,2,2,0.07045693,0.034807418,0.5580028,0.1409762,0.0007864378,0.19497016
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Greening/Greening (14).jpg,Fruits,Greening,2,5,0.11412388,0.02669359,0.040819265,0.015256449,0.0018534183,0.80125344
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Scab/17Catla.jpg,Fruits,Scab,5,5,0.001466025,0.006144815,0.0022707593,0.01592137,1.1810748e-05,0.9741853
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Scab/52Catla.jpg,Fruits,Scab,5,5,0.0035272725,0.0015793815,0.004462715,0.003165675,8.267715e-05,0.98718226
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/Scab/56Catla.jpg,Fruits,Scab,5,5,2.058465e-06,1.1804542e-05,6.196388e-06,0.00036391945,5.464734e-07,0.99961543
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/healthy/Healthy (11).jpg,Fruits,Healthy,3,3,0.3426398,0.25414783,0.009669883,0.3893952,0.0009897598,0.0031574417
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/healthy/Healthy (12).jpg,Fruits,Healthy,3,3,0.19974525,0.17221734,0.001616986,0.6255381,0.00037881543,0.00050350354
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/healthy/Healthy (16).jpg,Fruits,Healthy,3,3,0.0054250234,0.004473622,3.232546e-05,0.99004245,1.4944965e-05,1.1619399e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/healthy/Healthy (17).jpg,Fruits,Healthy,3,3,0.05797254,0.013902386,6.029742e-05,0.92805475,3.6312015e-06,6.3769508e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/healthy/Healthy (2).jpg,Fruits,Healthy,3,3,7.591793e-05,0.0024247041,0.0006519384,0.9966414,0.00019194721,1.4044035e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/healthy/Healthy (20).jpg,Fruits,Healthy,3,3,0.006411489,0.08833963,0.009166547,0.8952407,0.0007588,8.2790924e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Fruits/healthy/Healthy (4).jpg,Fruits,Healthy,3,3,0.00031653626,0.0124358665,0.014478486,0.96188617,0.010137568,0.00074534613
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (126).png,Leaves,Black_spot,0,0,0.9645421,0.0002004785,0.03519983,5.125991e-05,6.112486e-06,2.1601313e-07
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (145).png,Leaves,Black_spot,0,0,0.85489005,0.019944686,0.1240654,0.00035944034,0.0007391132,1.220254e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (151).png,Leaves,Black_spot,0,0,0.7210519,0.0014495306,0.27728385,0.00015986404,4.1270116e-05,1.3623543e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (152).png,Leaves,Black_spot,0,0,0.40803197,0.3551648,0.23113716,0.004273804,0.0008545537,0.0005376766
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (161).png,Leaves,Black_spot,0,0,0.42863488,0.31541127,0.24688262,0.007124433,0.0014469766,0.00049988506
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (166).png,Leaves,Black_spot,0,0,0.9880024,0.0017439952,0.010149309,8.346007e-05,1.7916831e-05,2.964014e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (167).png,Leaves,Black_spot,0,0,0.9322196,0.009227878,0.05031827,0.008056601,0.00013919707,3.8290957e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (169).png,Leaves,Black_spot,0,0,0.62914205,0.040402517,0.3197198,0.010429914,0.0002605757,4.524682e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (173).png,Leaves,Black_spot,0,0,0.839721,0.0047937986,0.14921935,0.0061274124,0.0001335552,4.8862516e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (182).png,Leaves,Black_spot,0,0,0.9923116,0.00032481828,0.0072085424,0.0001339247,9.718085e-06,1.14993445e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (184).png,Leaves,Black_spot,0,0,0.98890185,0.0055645863,0.0041950354,0.00043314937,0.00090338,2.1732478e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (196).png,Leaves,Black_spot,0,0,0.928491,0.0013180587,0.07007134,0.00011513752,4.2532097e-06,3.7058663e-07
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (229).png,Leaves,Black_spot,0,0,0.9869554,0.0044695847,0.0071503776,0.0013541781,4.89682e-05,2.1508058e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (231).png,Leaves,Black_spot,0,0,0.9826582,0.0022458062,0.014986448,2.6385078e-05,7.3354684e-05,9.813605e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (256).png,Leaves,Black_spot,0,0,0.9038676,0.012011345,0.0665585,0.016392974,0.0009994735,0.0001700791
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (257).png,Leaves,Black_spot,0,0,0.9985445,0.00073251355,0.0006992987,7.5652456e-06,1.3556102e-05,2.3271627e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (262).png,Leaves,Black_spot,0,0,0.84020907,0.14589165,0.012918607,0.00061233423,0.00015233745,0.00021593388
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (268).png,Leaves,Black_spot,0,0,0.948071,0.0011910677,0.05061357,0.000107248605,1.4577861e-05,2.4645085e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (270).png,Leaves,Black_spot,0,0,0.9601729,0.0063325795,0.02422847,0.008477266,0.0007630387,2.5874562e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (271).png,Leaves,Black_spot,0,0,0.6958435,0.0134455385,0.2864182,0.0036380398,0.00054174155,0.00011291186
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (275).png,Leaves,Black_spot,0,0,0.7918472,0.0437205,0.13995174,0.023759257,0.0003317657,0.0003894985
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (277).png,Leaves,Black_spot,0,0,0.9505743,0.0041526835,0.044235054,0.00057364913,0.00019615075,0.0002681564
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (42).png,Leaves,Black_spot,0,0,0.81217337,0.03342314,0.14854653,0.0046211965,0.0007679089,0.00046793296
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (43).png,Leaves,Black_spot,0,0,0.84653217,0.016000433,0.11999504,0.016338106,0.00037225307,0.0007621278
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (48).png,Leaves,Black_spot,0,0,0.7624192,0.010353258,0.22175261,0.0046347477,0.00068131083,0.00015897378
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (51).png,Leaves,Black_spot,0,0,0.60612273,0.021146884,0.29896215,0.0650032,0.0074599106,0.0013051734
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (53).png,Leaves,Black_spot,0,0,0.6362126,0.085098,0.26349622,0.011659632,0.0030304757,0.0005030936
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (55).png,Leaves,Black_spot,0,0,0.91822046,0.016181692,0.059409823,0.005327056,0.0003056167,0.0005553465
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (60).png,Leaves,Black_spot,0,0,0.79081607,0.002677785,0.2049529,0.0013289533,0.000109060085,0.00011515196
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (70).png,Leaves,Black_spot,0,0,0.74638546,0.041200444,0.17042108,0.03431346,0.0016082949,0.0060712397
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (74).png,Leaves,Black_spot,0,0,0.62233204,0.0011804663,0.37236047,0.0034794477,0.0005735603,7.400256e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (77).png,Leaves,Black_spot,0,0,0.53923565,0.050502807,0.383873,0.022351878,0.0029212916,0.0011154282
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (78).png,Leaves,Black_spot,0,0,0.79071957,0.030246045,0.15267053,0.021327887,0.0028177884,0.0022182728
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/b (95).png,Leaves,Black_spot,0,0,0.85827607,0.00034530665,0.13636476,0.004879655,0.0001325641,1.5938867e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Black spot/bl (5).png,Leaves,Black_spot,0,2,0.39847544,0.0002571093,0.6010139,0.00024222059,1.0110144e-05,1.2775819e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Melanose/34.jpg,Leaves,Melanose,4,0,0.8921848,0.012046758,0.050593648,0.00667099,0.035402544,0.003101254
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/Melanose/SAM_3928Catla.jpg,Leaves,Melanose,4,1,0.047496527,0.9376628,0.006671764,0.002484835,0.0056624063,2.1559188e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/108.p.png,Leaves,Canker,1,1,0.2939972,0.6781797,0.02432493,0.00016323401,0.0032041965,0.00013075508
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/111.p.png,Leaves,Canker,1,2,0.04890133,0.4427562,0.4446061,0.060644362,0.0021209593,0.00097095984
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/112.p.png,Leaves,Canker,1,1,0.022944976,0.8864045,0.013016094,0.0722803,0.0052273753,0.00012668865
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/114.p.png,Leaves,Canker,1,2,0.021839641,0.42111194,0.5040239,0.050691403,0.0022465275,8.657939e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/115.p.png,Leaves,Canker,1,1,0.00084456557,0.9932997,0.005019704,0.00050041045,0.00028128206,5.4377066e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/13.pn.png,Leaves,Canker,1,1,0.0041631903,0.9900405,0.005456292,8.735443e-05,0.00024403805,8.628457e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/134.p.png,Leaves,Canker,1,1,0.03193168,0.825291,0.1423717,0.000107133856,0.00022340943,7.5128184e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/137.p.png,Leaves,Canker,1,1,0.008228611,0.98935586,0.0013582234,0.00018793554,0.0008220575,4.740141e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/138.p.png,Leaves,Canker,1,1,0.016301785,0.9801895,0.002628077,2.2680753e-05,0.00081808434,4.0001487e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/144.p.png,Leaves,Canker,1,1,0.0009619716,0.99323326,0.004369303,0.0009974473,0.00033624156,0.00010174447
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/153.p.png,Leaves,Canker,1,1,0.0014370094,0.9939939,0.0025437055,0.0015004092,0.00038329294,0.00014174693
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/158.p.png,Leaves,Canker,1,1,0.0012382818,0.99631584,0.0022886323,3.2589254e-05,9.326162e-05,3.1510644e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/17.pn.png,Leaves,Canker,1,1,0.059088886,0.7585029,0.098393515,0.07943567,0.0036883496,0.00089070346
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/19.pn.png,Leaves,Canker,1,1,0.0133262295,0.96922976,0.010751717,0.00069724134,0.00024295125,0.0057520987
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/21.pn.png,Leaves,Canker,1,1,0.002006405,0.99010897,0.0012503199,0.0002213233,0.00018379152,0.006229231
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/26.pn.png,Leaves,Canker,1,1,0.011353778,0.97622037,0.010207725,0.00068518094,0.0002473695,0.0012855772
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/30.pn.png,Leaves,Canker,1,1,3.925264e-05,0.9998462,7.833853e-05,2.692796e-06,6.351988e-06,2.7116226e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/31.pn.png,Leaves,Canker,1,1,0.0007420067,0.9429636,0.055744633,0.00011858143,0.00041792088,1.3213049e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/35.pn.png,Leaves,Canker,1,1,0.10710186,0.7670804,0.123964846,0.00043431687,0.0014066803,1.1846033e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/41.pn.png,Leaves,Canker,1,1,0.0003026491,0.99922705,0.00041906533,5.8754154e-06,4.3551903e-05,1.7390715e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/44.pn.png,Leaves,Canker,1,1,0.0107083125,0.9813324,0.007023607,0.00018101798,0.00033787053,0.0004168054
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/48.pn.png,Leaves,Canker,1,1,0.005273342,0.9801398,0.014345521,9.067127e-05,0.00014603134,4.717862e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/52.pn.png,Leaves,Canker,1,1,0.0047605056,0.9846295,0.008414555,0.0007843045,0.00019180017,0.0012194654
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/54.pn.png,Leaves,Canker,1,1,0.017598638,0.79875493,0.09074038,0.051061157,0.039903693,0.0019411715
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/59.pn.png,Leaves,Canker,1,1,0.006464833,0.9789711,0.014310417,8.8463996e-05,6.436028e-05,0.00010087387
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/63.pn.png,Leaves,Canker,1,1,0.0035552545,0.99294996,0.0017986886,0.00078933843,0.0007889576,0.000117848256
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/70.pn.png,Leaves,Canker,1,1,0.021354903,0.93977255,0.038601864,8.8147666e-05,0.00010835174,7.4231524e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/71.pn.png,Leaves,Canker,1,1,0.0022081756,0.9956651,0.001682773,0.00015114971,0.00025619232,3.670487e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/74.pn.png,Leaves,Canker,1,1,0.012237393,0.98222905,0.0033450003,0.0014407798,0.00037846618,0.00036926245
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/75.pn.png,Leaves,Canker,1,1,0.02052129,0.96802026,0.010652489,6.070461e-05,0.0001322004,0.0006130364
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/79.pn.png,Leaves,Canker,1,1,0.00075300015,0.99875736,0.0001789665,5.434734e-05,0.00017254245,8.3899184e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/84.pn.png,Leaves,Canker,1,1,0.02091138,0.9656764,0.010752228,0.0014980385,0.00043474173,0.00072721153
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/85.pn.png,Leaves,Canker,1,1,0.014788288,0.95460063,0.01998137,0.007079141,0.0012506848,0.0023000564
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/87.pn.png,Leaves,Canker,1,1,0.105887115,0.5366039,0.2819233,0.072548606,0.0028029038,0.00023428017
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/90.pn.png,Leaves,Canker,1,1,0.03385955,0.5696229,0.37921932,0.010982899,0.005852459,0.00046283845
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/canker/99.pn.png,Leaves,Canker,1,1,0.0020646641,0.9864383,0.01047058,0.0005948657,0.00042128467,1.0176399e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (101).png,Leaves,Greening,2,2,0.042877275,0.018215189,0.9097429,0.02886054,0.00028248053,2.1574064e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (102).png,Leaves,Greening,2,3,0.044425905,0.029577127,0.43574768,0.48954785,0.000686957,1.4522629e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (105).png,Leaves,Greening,2,2,0.029080272,0.00365793,0.9588902,0.008334721,3.5970075e-05,9.223842e-07
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (106).png,Leaves,Greening,2,2,0.12859091,0.0038617414,0.859838,0.0074741603,0.00022731232,7.887168e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (123).png,Leaves,Greening,2,2,0.086727425,0.040738225,0.8707455,0.0015590835,0.00022362858,6.107147e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (130).png,Leaves,Greening,2,2,0.17666301,0.017485691,0.80104226,0.0046183746,0.00017068718,2.0040172e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (136).png,Leaves,Greening,2,2,0.23423663,0.01098383,0.75289345,0.0018142636,6.798388e-05,3.8795474e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (137).png,Leaves,Greening,2,2,0.04817091,0.0016025463,0.9379056,0.012135837,0.00016654264,1.8459403e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (148).png,Leaves,Greening,2,2,0.3647687,0.013375988,0.43817133,0.17973001,0.0033190458,0.00063489884
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (163).png,Leaves,Greening,2,2,0.17988212,0.029310191,0.7476148,0.041682836,0.0008155084,0.00069465133
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (166).png,Leaves,Greening,2,2,0.47488505,0.009071142,0.51429373,0.0006781491,0.0009209858,0.00015096109
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (169).png,Leaves,Greening,2,2,0.13357538,0.054402735,0.7782643,0.032545485,0.00068739604,0.0005247608
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (170).png,Leaves,Greening,2,0,0.5208418,0.029547257,0.44027513,0.008121998,0.0007045651,0.0005093316
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (174).png,Leaves,Greening,2,2,0.03906077,0.0095480075,0.9429021,0.00777338,0.00066820363,4.7477606e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (175).png,Leaves,Greening,2,2,0.15346207,0.014699581,0.8242668,0.00740058,0.000120269,5.066927e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (176).png,Leaves,Greening,2,2,0.25726512,0.044555396,0.6917215,0.006156979,0.00010792131,0.00019301243
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (183).png,Leaves,Greening,2,2,0.38758546,0.00037815506,0.6119821,2.205517e-05,2.92464e-05,3.0775984e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (185).png,Leaves,Greening,2,2,0.04761299,0.104922354,0.83834934,0.008483673,0.00045933021,0.00017242179
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (188).png,Leaves,Greening,2,2,0.26377136,0.0031743643,0.732365,0.0006206471,6.5146334e-05,3.4503316e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (192).png,Leaves,Greening,2,2,0.16429944,0.005262279,0.8247707,0.0055901026,4.4704422e-05,3.2813805e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (200).png,Leaves,Greening,2,2,0.075584225,0.03363933,0.88603854,0.0039686416,0.0006669389,0.00010231791
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (21).png,Leaves,Greening,2,2,0.122526266,0.0427831,0.82632047,0.008070094,0.00023780797,6.2246174e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (25).png,Leaves,Greening,2,2,0.16612594,0.11810189,0.7110675,0.0045632306,6.0055394e-05,8.1474536e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (34).png,Leaves,Greening,2,2,0.028875597,0.01713551,0.9481562,0.005268154,0.00021726164,0.00034737817
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (43).png,Leaves,Greening,2,2,0.10188931,0.002673389,0.89505017,0.00035091906,2.9942817e-05,6.2053464e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (50).png,Leaves,Greening,2,2,0.025368756,0.076349996,0.8910396,0.006574793,0.00033350041,0.00033322538
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (52).png,Leaves,Greening,2,2,0.017681636,0.0035912206,0.77251923,0.20541508,6.3240266e-05,0.00072954193
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (62).png,Leaves,Greening,2,2,0.012248472,0.00016678139,0.9861777,0.0013876855,1.6643366e-05,2.7431727e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (64).png,Leaves,Greening,2,2,0.10697332,0.0019012988,0.87427396,0.016607113,0.00024244888,1.8602997e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (69).png,Leaves,Greening,2,2,0.19968802,0.014727482,0.74304444,0.041451853,0.0009891384,9.914852e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (70).png,Leaves,Greening,2,2,0.061374176,0.00034286393,0.9177266,0.020299196,0.00024091914,1.6281958e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (71).png,Leaves,Greening,2,2,0.24572381,0.030192956,0.695754,0.02828713,3.340821e-05,8.7259805e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (8).png,Leaves,Greening,2,0,0.5190774,0.010772733,0.40200996,0.06752867,0.00047828702,0.0001329284
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (80).png,Leaves,Greening,2,2,0.012426221,0.009464514,0.972954,0.004887006,0.00023540173,3.2846165e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (81).png,Leaves,Greening,2,2,0.24618398,0.00868959,0.74464995,0.00034198503,0.00012012052,1.4377579e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (84).png,Leaves,Greening,2,2,0.011339571,0.01900377,0.9674769,0.002136643,3.6282385e-05,6.8558033e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (86).png,Leaves,Greening,2,2,0.032842934,0.014185738,0.92622906,0.026326993,0.00037754167,3.7791182e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (88).png,Leaves,Greening,2,2,0.38022882,0.010486615,0.6088231,0.00015441191,0.0002906813,1.6295397e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (91).png,Leaves,Greening,2,1,0.21593674,0.5486725,0.20918068,0.02299059,0.0015533292,0.0016661525
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (95).png,Leaves,Greening,2,2,0.07249783,0.028187929,0.89306855,0.0049998374,0.0009288959,0.00031692797
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (96).png,Leaves,Greening,2,2,0.08644063,0.0006538635,0.7037027,0.20834428,0.00024063655,0.00061795185
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/greening/g (97).png,Leaves,Greening,2,2,0.03262406,0.0021290635,0.9581413,0.007081491,2.3392042e-05,6.643492e-07
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/14.pn.png,Leaves,Healthy,3,3,0.00018456616,0.0002640329,0.0010585207,0.99840975,8.001122e-05,3.1417774e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/15.pn.png,Leaves,Healthy,3,3,0.0007521285,0.00043567235,0.01852419,0.980182,9.970703e-05,6.409234e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/16.pn.png,Leaves,Healthy,3,3,0.110731535,0.0011196504,0.055738285,0.8320413,0.0003681572,1.1260297e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/23.pn.png,Leaves,Healthy,3,3,0.0026486265,0.0012298265,0.010184401,0.9851217,0.00079516973,2.029504e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/24.pn.png,Leaves,Healthy,3,3,0.0053666346,0.004568328,0.02165793,0.9677564,0.00059245835,5.836938e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/32.pn.png,Leaves,Healthy,3,3,0.0056140744,0.00039327695,0.035663184,0.9582578,6.703549e-05,4.545728e-06
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/35.pn.png,Leaves,Healthy,3,3,0.0034600028,0.002485112,0.07766725,0.91538817,0.0009551338,4.4281405e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/54.pn.png,Leaves,Healthy,3,3,0.0025649266,0.0014295703,0.20673415,0.78893954,0.00031255654,1.9321351e-05
+/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus/Leaves/healthy/58.pn.png,Leaves,Healthy,3,3,0.020681905,0.014357617,0.08615171,0.87777615,0.00076249125,0.00027016143

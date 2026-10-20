@@ -1,0 +1,100 @@
+{
+  "Accuracy": 0.8421052631578947,
+  "Macro_Precision": 0.8360178672918442,
+  "Macro_Recall": 0.8393806485911749,
+  "Macro_F1": 0.8220251426438437,
+  "Weighted_F1": 0.8415166731217743,
+  "MCC": 0.7895644383773012,
+  "per_class": {
+    "Black_spot": {
+      "precision": 0.84375,
+      "recall": 0.7105263157894737,
+      "f1": 0.7714285714285715,
+      "support": 38
+    },
+    "Canker": {
+      "precision": 0.9130434782608695,
+      "recall": 0.875,
+      "f1": 0.8936170212765957,
+      "support": 48
+    },
+    "Greening": {
+      "precision": 0.7843137254901961,
+      "recall": 0.9090909090909091,
+      "f1": 0.8421052631578947,
+      "support": 44
+    },
+    "Healthy": {
+      "precision": 0.875,
+      "recall": 0.875,
+      "f1": 0.875,
+      "support": 16
+    },
+    "Melanose": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "support": 3
+    },
+    "Scab": {
+      "precision": 0.6,
+      "recall": 1.0,
+      "f1": 0.75,
+      "support": 3
+    }
+  },
+  "confusion_matrix": [
+    [
+      27,
+      3,
+      7,
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      42,
+      2,
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      40,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      2,
+      14,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ]
+  ],
+  "n_test": 152,
+  "name": "DenseNet121 (frozen, Phase 1 only)",
+  "group": "DL-phase1",
+  "features": "frozen"
+}

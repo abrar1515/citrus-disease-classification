@@ -1,0 +1,76 @@
+{
+  "SEED": 42,
+  "DATA_ROOT": "/kaggle/input",
+  "DATASET_DIR": "/kaggle/input/datasets/abrar1515/citrus-disease-dataset/Citrus",
+  "OUT_DIR": "/kaggle/working/results",
+  "CLASSES": [
+    "Black_spot",
+    "Canker",
+    "Greening",
+    "Healthy",
+    "Melanose",
+    "Scab"
+  ],
+  "MODELS": [
+    "EfficientNetB0",
+    "ResNet50",
+    "DenseNet121",
+    "InceptionV3"
+  ],
+  "IMG": {
+    "EfficientNetB0": [
+      224,
+      224
+    ],
+    "ResNet50": [
+      224,
+      224
+    ],
+    "DenseNet121": [
+      224,
+      224
+    ],
+    "InceptionV3": [
+      299,
+      299
+    ]
+  },
+  "BATCH": {
+    "EfficientNetB0": 32,
+    "ResNet50": 32,
+    "DenseNet121": 32,
+    "InceptionV3": 24
+  },
+  "DROPOUT": {
+    "EfficientNetB0": 0.2,
+    "ResNet50": 0.4,
+    "DenseNet121": 0.4,
+    "InceptionV3": 0.4
+  },
+  "WEIGHTS": "imagenet",
+  "LR1": 0.001,
+  "LR2": 1e-05,
+  "EPOCHS1": 20,
+  "EPOCHS2": 20,
+  "N_UNFREEZE": 60,
+  "ES_PATIENCE": 8,
+  "RLR_FACTOR": 0.2,
+  "RLR_PATIENCE": 8,
+  "MIN_LR": 1e-06,
+  "PCA_COMPONENTS": 256,
+  "RF_TREES": {
+    "ResNet50": 600,
+    "DenseNet121": 500
+  },
+  "ML_BACKBONES": [
+    "ResNet50",
+    "DenseNet121"
+  ],
+  "ML_IMG": [
+    224,
+    224
+  ],
+  "ML_BATCH": 32,
+  "FIG_DPI": 600,
+  "GRADCAM_MODEL": "ResNet50"
+}

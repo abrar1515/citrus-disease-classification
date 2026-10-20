@@ -1,0 +1,100 @@
+{
+  "Accuracy": 0.44370860927152317,
+  "Macro_Precision": 0.5839271956856703,
+  "Macro_Recall": 0.37975146198830406,
+  "Macro_F1": 0.3819678025531201,
+  "Weighted_F1": 0.3878173393468253,
+  "MCC": 0.3069556337764132,
+  "per_class": {
+    "Black_spot": {
+      "precision": 0.8181818181818182,
+      "recall": 0.23684210526315788,
+      "f1": 0.3673469387755102,
+      "support": 38
+    },
+    "Canker": {
+      "precision": 0.5625,
+      "recall": 0.1875,
+      "f1": 0.28125,
+      "support": 48
+    },
+    "Greening": {
+      "precision": 0.3728813559322034,
+      "recall": 1.0,
+      "f1": 0.5432098765432098,
+      "support": 44
+    },
+    "Healthy": {
+      "precision": 0.75,
+      "recall": 0.1875,
+      "f1": 0.3,
+      "support": 16
+    },
+    "Melanose": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2
+    },
+    "Scab": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "support": 3
+    }
+  },
+  "confusion_matrix": [
+    [
+      9,
+      1,
+      27,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      9,
+      38,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      44,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      3,
+      9,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "n_test": 151,
+  "name": "ResNet50 (fine-tuned) + NB",
+  "group": "ML",
+  "features": "fine-tuned"
+}
