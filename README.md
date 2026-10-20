@@ -34,9 +34,21 @@ Scab occurs only in fruit images and Melanose only in leaf images, so for these 
 Expected folder layout (the notebook looks for a folder that contains `Fruits/` and `Leaves/`, each with one sub-folder per class):
 
 ```
-<dataset folder>/
-  Fruits/<class folders>
-  Leaves/<class folders>
+<dataset_folder>
+│
+├── Fruits/
+│   ├── Black spot/
+│   ├── Canker/
+│   ├── Greening/
+│   ├── healthy/
+│   └── Scab/
+│
+└── Leaves/
+    ├── Black spot/
+    ├── canker/
+    ├── greening/
+    ├── healthy/
+    └── Melanose/
 ```
 
 ## What is compared
