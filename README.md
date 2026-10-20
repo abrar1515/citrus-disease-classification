@@ -148,6 +148,3 @@ If you use this code or the results, please cite the manuscript (in preparation)
 ## License
 Code: MIT License (see `LICENSE`). The dataset has its own license on its Mendeley Data page and is not redistributed here.
 
-## Links
-- Kaggle notebook: <ADD LINK>
-- Paper / preprint: <ADD LINK WHEN AVAILABLE>
